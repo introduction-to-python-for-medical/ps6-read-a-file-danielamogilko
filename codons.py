@@ -1,4 +1,4 @@
-file_path = '/content/data/codons.txt
+file_path = '/content/data/codons.txt'
 def create_codon_dict(file_path):
     codons_acids = {}
     with open(file_path, 'r') as flie:
